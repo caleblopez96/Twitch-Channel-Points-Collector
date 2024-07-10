@@ -7,4 +7,4 @@ function collectChannelPoints(intervalInMilliseconds){
   }, intervalInMilliseconds)
 }
 
-collectChannelPoints(5000);
+collectChannelPoints();
